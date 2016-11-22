@@ -162,8 +162,8 @@
     "Ammo Capacity": {
       "es": "Capacidad de Munición",
       "de": "Munitionskapazität",
-      "fr": "capacité de munition",
-      "ru": null
+      "fr": "Сapacité de munition",
+      "ru": "Снаряды"
     },
     "Overcharged Weapon": {
       "es": "Arma Sobrecargada",
@@ -175,7 +175,7 @@
       "es": "Bajas Emisiones ",
       "de": "Emissionsoptimiertes ",
       "fr": "Basse émission",
-      "ru": null
+      "ru": "Низкие выдачи"
     },
     "System Focused ": {
       "es": "Orientado a Sistemas ",
@@ -187,13 +187,13 @@
       "es": "Aligerado ",
       "de": "Leichtgewicht ",
       "fr": "Léger",
-      "ru": null
+      "ru": "Лёгкое"
     },
     "Overcharged ": {
       "es": "Sobrecargado ",
       "de": "Überladungs",
       "fr": "Surchargé",
-      "ru": null
+      "ru": "Усиленное"
     },
     "Increased FSD Range": {
       "es": "Aumento de Alcance de MDD",
@@ -283,7 +283,7 @@
       "es": "Especializado ",
       "de": "Spezialisierte",
       "fr": "Specialisé",
-      "ru": null
+      "ru": "Специализированныое"
     },
     "Shielded ": {
       "es": "Blindado",
