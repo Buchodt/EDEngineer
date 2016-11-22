@@ -1578,13 +1578,13 @@
     "Input a shortcut that's going to be used to show the window": {
       "es": "Introduce el acceso directo que será utilizado para mostrar la ventana",
       "de": "Geben Sie eine Tastenkombination ein, die das Fenster anzeigt",
-      "fr": "Configurer une touche pour afficher la fenetre",
+      "fr": "Configurez un raccourci pour afficher la fenetre",
       "ru": null
     },
     "You can't use an empty shortcut": {
       "es": "No puedes usar un acceso directo vacío",
       "de": "Sie können keine leere Tastenkombination benutzen",
-      "fr": "Une touche doit etre choisie",
+      "fr": "Un raccourci doit etre choisi",
       "ru": null
     },
     "Error": {
@@ -1596,7 +1596,7 @@
     "The requested shortcut ({0}) is invalid": {
       "es": "El acceso directo solicitado ({0}) no es válido",
       "de": "Die gewünschte Tastenkombination ({0}) ist ungültig",
-      "fr": "La touche demandée ({0}) est invalide",
+      "fr": "Le raccourci demandé ({0}) est invalide",
       "ru": null
     },
     "You must use a regular key to accompany the modifier key like (Ctrl+F10 or Shift+R)": {
@@ -1608,7 +1608,7 @@
     "Something went wrong in parsing your logs, open an issue on GitHub with this information :": {
       "es": "Se ha producido un error al analizar tus registros, envia una incidencia a GitHub con la siguiente información :",
       "de": "Es ist ein Fehler beim Parsen Ihrer Logs aufgetreten, bitte öffnen Sie eine Issue-Meldung auf GitHub mit folgenden Angaben :",
-      "fr": "Quelque chose c'est mal passé dans la lecture de votre log, merci d'ouvrir un ticket sur GitHub avec cette information :",
+      "fr": "Quelque chose s'est mal passé dans la lecture de votre log, merci d'ouvrir un ticket sur GitHub avec cette information :",
       "ru": null
     },
     "Unknown material, please contact the author ! {0}": {
@@ -1740,7 +1740,7 @@
     "Mission reward": {
       "es": "Recompensa de misiones",
       "de": "Missions-Belohnungen",
-      "fr": "Récompence de mission",
+      "fr": "Récompense de mission",
       "ru": null
     },
     "Mining (ice rings)": {
@@ -1950,7 +1950,7 @@
     "Ingredient not used in any blueprint!": {
       "es": "Elemento no usado en ninguna receta!",
       "de": "Bestandteil in keinem bekannten Bauplan!",
-      "fr": "Materiaux utilisé dans aucune recette!",
+      "fr": "Materiaux utilisés dans aucune recette!",
       "ru": null
     },
     "+100% Fuel Efficiency": {
