@@ -546,7 +546,7 @@
     "Adaptive Encryptors Capture": {
       "es": "Captura de Encriptadores Adaptativos",
       "de": "Adaptive Verschlüsselungserfassung",
-      "fr": "Capture d'encrypteurs adaptatifs",
+      "fr": "Capture de cryptage évolutif",
       "ru": "Захват адаптивного шифровальщика"
     },
     "Anomalous Bulk Scan Data": {
@@ -1248,7 +1248,7 @@
     "Tagged Encryption Codes": {
       "es": "Códigos de Encriptación Marcados",
       "de": "Getaggte Verschlüsselungscodes",
-      "fr": "Codes de cryptage marqué",
+      "fr": "Clés de Cryptage Balisées",
       "ru": "Меченые шифровальные коды"
     },
     "Technetium": {
@@ -1320,7 +1320,7 @@
     "Unusual Encrypted Files": {
       "es": "Ficheros Encriptados Inusuales",
       "de": "Ungewöhnliche verschlüsselte Files",
-      "fr": "Fichiers cryptés insolites",
+      "fr": "Fichiers cryptés inhabituels",
       "ru": "Особые зашифрованные файлы"
     },
     "Vanadium": {
